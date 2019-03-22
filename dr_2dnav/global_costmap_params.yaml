@@ -8,3 +8,6 @@ global_costmap:
   height: 100
   inflation_radius: 1.5
   cost_scaling_factor: 2
+
+  track_unknown_space: false 
+  unknown_cost_value: 0
